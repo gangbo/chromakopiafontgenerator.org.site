@@ -1,0 +1,17 @@
+{
+  "siteTitle": "Chromakopia 字体生成器",
+  "logoAlt": "Chromakopia 标志",
+  "menu": {
+    "generate": "生成",
+    "gallery": "画廊",
+    "about": "关于我们"
+  },
+  "footer": {
+    "about": "关于 Chromakopia",
+    "description": "Chromakopia 字体生成器是一个为 Tyler, the Creator 粉丝和创意爱好者设计的在线工具，让您能够轻松创建独特的 Chromakopia 风格字体。",
+    "privacyPolicy": "隐私政策",
+    "termsOfUse": "使用条款",
+    "followUs": "关注我们",
+    "copyright": "Chromakopia 字体生成器。保留所有权利。"
+  }
+}

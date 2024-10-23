@@ -1,0 +1,17 @@
+{
+  "siteTitle": "Chromakopia Font Generator",
+  "logoAlt": "Chromakopia Logo",
+  "menu": {
+    "generate": "Generate",
+    "gallery": "Gallery",
+    "about": "About Us"
+  },
+  "footer": {
+    "about": "About Chromakopia",
+    "description": "Chromakopia Font Generator is an online tool designed for Tyler, the Creator fans and creative enthusiasts, allowing you to easily create unique Chromakopia-style fonts.",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfUse": "Terms of Use",
+    "followUs": "Follow Us",
+    "copyright": "Chromakopia Font Generator. All rights reserved."
+  }
+}

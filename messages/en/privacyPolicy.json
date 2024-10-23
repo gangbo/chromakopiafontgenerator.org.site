@@ -1,0 +1,30 @@
+{
+  "Metadata": {
+    "title": "Privacy Policy | Chromakopia Font Generator",
+    "description": "Discover how we safeguard your privacy while you use Chromakopia Font Generator, the innovative online font creation tool."
+  },
+  "title": "Privacy Policy",
+  "subtitle": "Protecting Your Data in Chromakopia Font Generator",
+  "sections": {
+    "informationCollection": {
+      "title": "Information Collection",
+      "content": "Chromakopia Font Generator does not collect any personal information. We do not track or store any data related to your font creation activities. Your privacy is paramount, and we've designed our service to respect that."
+    },
+    "dataSecurity": {
+      "title": "Data Security",
+      "content": "As we do not collect or store any personal data, there is minimal risk to your privacy. However, we still employ industry-standard security measures to protect our website and ensure a safe browsing experience for all users."
+    },
+    "cookieUsage": {
+      "title": "Cookie Usage",
+      "content": "We use only essential cookies that are necessary for the website to function properly. These cookies do not store any personal information and are deleted when you close your browser. They simply enable basic functions like page navigation and access to secure areas of the website."
+    },
+    "policyUpdate": {
+      "title": "Policy Updates",
+      "content": "We may periodically update this privacy policy to reflect changes in our practices or website features. We encourage you to review this policy occasionally to stay informed about how we protect your privacy when using Chromakopia Font Generator."
+    },
+    "noLogin": {
+      "title": "No Login Required",
+      "content": "Chromakopia Font Generator is designed for instant use without the need for account creation or login. You can start creating unique fonts directly in your browser, with no personal identification information required. We prioritize your privacy and convenience."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "Metadata": {
+    "title": "隐私政策 | Chromakopia 字体生成器",
+    "description": "了解我们如何在您使用 Chromakopia 字体生成器时保护您的隐私，这是一款创新的在线字体创建工具。"
+  },
+  "title": "隐私政策",
+  "subtitle": "保护您在 Chromakopia 字体生成器中的数据",
+  "sections": {
+    "informationCollection": {
+      "title": "信息收集",
+      "content": "Chromakopia 字体生成器不收集任何个人信息。我们不追踪或存储与您字体创建活动相关的数据。您的隐私至关重要，因此我们设计的服务尊重这一原则。"
+    },
+    "dataSecurity": {
+      "title": "数据安全",
+      "content": "由于我们不收集或存储任何个人数据，因此对您的隐私风险极低。然而，我们仍采用行业标准的安全措施来保护我们的网站，确保所有用户的安全浏览体验。"
+    },
+    "cookieUsage": {
+      "title": "Cookie 使用",
+      "content": "我们仅使用对网站正常功能必需的重要 cookie。这些 cookie 不存储任何个人信息，并在您关闭浏览器时删除。它们仅提供基本功能，如页面导航和访问网站的安全区域。"
+    },
+    "policyUpdate": {
+      "title": "政策更新",
+      "content": "我们可能会定期更新本隐私政策，以反映我们实践或网站功能的变化。我们鼓励您偶尔查看此政策，以了解我们如何在使用 Chromakopia 字体生成器时保护您的隐私。"
+    },
+    "noLogin": {
+      "title": "无需登录",
+      "content": "Chromakopia 字体生成器设计为可直接使用，无需创建账户或登录。您可以在浏览器中直接开始创建独特字体，无需提供个人识别信息。我们优先考虑您的隐私和便利性。"
+    }
+  }
+}

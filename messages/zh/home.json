@@ -1,0 +1,69 @@
+{
+  "Metadata": {
+    "title": "Chromakopia Font Generator | 创造你的Tyler风格字体",
+    "description": "使用Chromakopia Font Generator创建独特的Tyler, the Creator风格字体。自定义颜色、背景，设计个性化名字或项目logo。灵感源自即将发布的Chromakopia专辑。",
+    "keywords": ""
+  },
+  "title": "Chromakopia Font Generator：创造你的专属Tyler风格字体",
+  "introduction": "欢迎来到Chromakopia Font Generator，这是一个专为Tyler, the Creator粉丝和创意爱好者打造的在线工具。我们的网站让你能够轻松创建独特的Chromakopia风格字体，灵感来自即将发布的同名专辑。无论你是想设计个性化的名字，还是为你的项目添加一抹Tyler式的创意，我们都能满足你的需求。",
+  "galleryTitle": "作品展示",
+  "featuresTitle": "网站特点",
+  "features": [
+    "简单易用：直观的界面设计，让你轻松上手。",
+    "多样化定制：提供丰富的色彩搭配选项，满足不同风格需求。",
+    "灵活的背景选择：可使用预设背景或上传自己的图片。",
+    "多种尺寸输出：支持下载不同尺寸的图片，适应各种使用场景。",
+    "实时预览：即时查看设计效果，快速调整。",
+    "免费使用：无需注册，立即开始创作。",
+    "移动端友好：随时随地，用手机也能轻松设计。"
+  ],
+  "reviewsTitle": "用户评论",
+  "reviews": [
+    {
+      "name": "小明",
+      "comment": "这个工具太棒了！我用它设计了我的社交媒体头像，朋友们都说很酷。"
+    },
+    {
+      "name": "音乐爱好者小红",
+      "comment": "作为一个Tyler的铁粉，我爱死这个字体生成器了。它让我感觉更贴近偶像。"
+    },
+    {
+      "name": "设计师阿杰",
+      "comment": "界面简洁，操作简单，效果出众。强烈推荐给所有创意工作者！"
+    },
+    {
+      "name": "小雨",
+      "comment": "我用它为我的头像，效果惊艳。感谢提供这么棒的工具！"
+    }
+  ],
+  "faqTitle": "常见问题 (FAQ)",
+  "faqs": [
+    {
+      "q": "Chromakopia 是什么？",
+      "a": "Chromakopia 是美国说唱歌手Tyler, the Creator即将发布的第七张录音室专辑。这张专辑预计将于2024年10月28日通过Columbia Records发行。"
+    },
+    {
+      "q": "Chromakopia font是什么？",
+      "a": "Chromakopia font是一种独特的字体设计，其特点是每个字母两侧都有角状突出。虽然字形不规则，但展现出独特的美感。这种字体的设计灵感来自Chromakopia专辑封面的造型。"
+    },
+    {
+      "q": "如何使用Chromakopia Font Generator？",
+      "a": "使用非常简单：访问我们的网站，输入你想要设计的文字，选择颜色和背景，然后下载生成的图片即可。"
+    },
+    {
+      "q": "我可以将生成的图片用于商业用途吗？",
+      "a": "完全没问题，请随意使用。"
+    }
+  ],
+  "ChromakopiaDisplay": {
+    "inputLabel": "输入文本",
+    "inputPlaceholder": "请输入文本...",
+    "colorCombinationsLabel": "常用配色",
+    "fontColorLabel": "选择字体颜色",
+    "backgroundColorLabel": "选择背景颜色",
+    "generatedImageAlt": "生成的文本",
+    "downloadSmall": "下载 (小)",
+    "downloadMedium": "Download (medium)",
+    "downloadLarge": "Download (large)"
+  }
+}
